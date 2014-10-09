@@ -1,0 +1,48 @@
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\bin\Debug\300project-TestHarness.exe
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\bin\Debug\300project-TestHarness.pdb
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\bin\Debug\300project-TestHarness.xml
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\obj\x86\Debug\300project-TestHarness.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\obj\x86\Debug\300project-TestHarness.exe
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\obj\x86\Debug\300project-TestHarness.xml
+C:\Users\User\AppData\Local\Temporary Projects\300project-TestHarness\obj\x86\Debug\300project-TestHarness.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\obj\x86\Debug\300project-TestHarness.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\obj\x86\Debug\300project-TestHarness.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\bin\Debug\300project-TestHarness.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\bin\Debug\300project-TestHarness.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\bin\Debug\300project-TestHarness.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\obj\x86\Debug\300project-TestHarness.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\obj\x86\Debug\300project-TestHarness.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\300project-TestHarness\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.BudgetChart.resources
+C:\Users\User\Desktop\300project-TestHarness\300project-TestHarness\obj\x86\Debug\300project-TestHarness.exe
+C:\Users\User\Desktop\300project-TestHarness\300project-TestHarness\obj\x86\Debug\300project-TestHarness.xml
+C:\Users\User\Desktop\300project-TestHarness\300project-TestHarness\obj\x86\Debug\300project-TestHarness.pdb
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.BudgetChart.resources
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.Resources.resources
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-TestHarness.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.DifficultyWindow.resources
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.BudgetWindow.resources
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.IndicatorWindow.resources
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.SplashWindow.resources
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\bin\Debug\300project-Complete1.0.exe
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\bin\Debug\300project-Complete1.0.pdb
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\bin\Debug\300project-Complete1.0.xml
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-Complete1.0.exe
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-Complete1.0.xml
+C:\Users\User\Desktop\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-Complete1.0.pdb
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-Complete1.0.exe
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-Complete1.0.xml
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-Complete1.0.pdb
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\bin\Debug\300project-Complete1.0.exe
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\bin\Debug\300project-Complete1.0.pdb
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\bin\Debug\300project-Complete1.0.xml
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.BudgetWindow.resources
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.DifficultyWindow.resources
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.IndicatorWindow.resources
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.SplashWindow.resources
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.BudgetChart.resources
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\_300project_TestHarness.Resources.resources
+C:\Users\User\Desktop\Homework161\300project-1.0\300project-TestHarness\obj\x86\Debug\300project-TestHarness.vbproj.GenerateResource.Cache
